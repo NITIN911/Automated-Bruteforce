@@ -27,3 +27,5 @@ pip3 install webdriver-manager
 python Automated_Bruteforce.py http://example.com.com/login /path/to/wordlist.txt
 ```
 # Damo Working
+https://github.com/user-attachments/assets/aa6f9038-d954-4491-a613-8a5a60d929ef
+
